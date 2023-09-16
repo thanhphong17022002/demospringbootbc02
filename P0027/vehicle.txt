@@ -1,0 +1,5 @@
+Vehicle ( ID: #002 | Name: Smodel |  Color: green  | Price: 123.0  |  brand: Tesla  |  Type: fuel|  Product Year: 2002)
+Vehicle ( ID: #003 | Name: vf34  |  Color: blue  | Price: 20202.0  |  brand: vinfast  |  Type: ev  |  Product Year: 2023)
+Vehicle ( ID: #001 | Name: c200  |  Color: black  | Price: 4500.0  |  brand: Merc  |  Type: Electric  |  Product Year: 2002)
+Vehicle ( ID: #005 | Name: VF8  |  Color: Green  | Price: 999.0  |  brand: vinfast  |  Type: electric  |  Product Year: 2023)
+Vehicle ( ID: #004 | Name: A300  |  Color: white  | Price: 300.0  |  brand: Merc  |  Type: fuel  |  Product Year: 2020)
